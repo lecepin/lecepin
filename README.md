@@ -2,8 +2,9 @@
 
 I am lecepin, the author of [《PWA 入门与实践》(Hands-On Progressive Web Apps)](https://item.jd.com/12855174.html)。
 
-- 🔭 I’m currently working on [Alibaba](https://github.com/alibaba), A core member of Ali's brain.
-- 📫 leping086@vip.qq.com
+- 🔭 I currently work for [Alibaba](https://github.com/alibaba). The core development member of *Ali Brain* products.
+- 👯 I am looking for developers in data visualization。
+- 📫 How to reach me: leping086@vip.qq.com
 
 <!--
 **lecepin/lecepin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
