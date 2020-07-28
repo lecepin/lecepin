@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-lecepin(王乐平)，[《PWA 入门与实践》Hands-On Progressive Web Apps](https://item.jd.com/12855174.html) 图书作者。
+I am lecepin, the author of [《PWA 入门与实践》(Hands-On Progressive Web Apps)](https://item.jd.com/12855174.html)。
 
-- 🔭 目前就职于[阿里巴巴](https://github.com/alibaba)，阿里大脑核心开发成员
+- 🔭 I’m currently working on [Alibaba](https://github.com/alibaba), A core member of Ali's brain.
 - 📫 leping086@vip.qq.com
 
 <!--
