@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am lecepin, the author of [《PWA 入门与实践》(Hands-On Progressive Web Apps)](https://item.jd.com/12855174.html)。
+I am Leping Wang, the author of [《PWA 入门与实践》(Hands-On Progressive Web Apps)](https://item.jd.com/12855174.html)。
 
 - 🔭 I currently work for [Alibaba](https://github.com/alibaba). The core development member of *Ali Brain* products.
 - 👯 I am looking for developers in data visualization。
