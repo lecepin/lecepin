@@ -6,7 +6,7 @@ I am Leping Wang, the author of [《PWA 入门与实践》(Hands-On Progressive 
 
 - 🔭 I currently work for [Alibaba](https://github.com/alibaba). The core development member of *Ali Brain* products.
 - 👯 I am looking for developers in data visualization。
-- 📫 How to reach me: for_leping@39.com
+- 📫 How to reach me: for_leping@139.com
 
 <!--
 **lecepin/lecepin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
