@@ -24,3 +24,9 @@ Here are some ideas to get you started:
 
 
 -->
+
+
+#### Documentation contribution
+
+- [XState](https://xstate.js.org/): Create XState Chinese documents and merge them into the official site. [zh-doc](https://xstate.js.org/docs/zh/)
+- [Jotai](https://jotai.org/): Create Jotai Chinese document and merge it into [Jotai labs](https://github.com/jotaijs) site and [印记中文](https://github.com/docschina). [zh-doc](https://jotai.jscn.org/)
