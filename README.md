@@ -30,3 +30,8 @@ Here are some ideas to get you started:
 
 - [XState](https://xstate.js.org/): Create XState Chinese documents and merge them into the official site. [zh-doc](https://xstate.js.org/docs/zh/)
 - [Jotai](https://jotai.org/): Create Jotai Chinese document and merge it into [Jotai labs](https://github.com/jotaijs) site and [印记中文](https://github.com/docschina). [zh-doc](https://jotai.jscn.org/)
+
+ 
+
+<img src="https://grs-jd5yut9g4-lecepin.vercel.app/api?username=lecepin&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=ffffff&hide_title=true&include_all_commits=true"   align="left"  />
+<img src="https://grs-jd5yut9g4-lecepin.vercel.app/api/top-langs/?username=lecepin&layout=compact"  align="left" />
