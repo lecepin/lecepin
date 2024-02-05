@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 <a href="https://space.bilibili.com/3493138599512344"><img src="https://github.com/lecepin/lecepin/assets/11046969/0a211990-a434-4a31-b0a3-28f64b397994" width="600" /></a>
 
-<img src="https://github.com/lecepin/lecepin/assets/11046969/f9e8736c-0480-4140-b110-efe4403d1064" width="350" />
+<a><img src="https://github.com/lecepin/lecepin/assets/11046969/f9e8736c-0480-4140-b110-efe4403d1064" width="350" /></a>
 
 
 
