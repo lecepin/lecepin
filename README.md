@@ -41,8 +41,8 @@ Here are some ideas to get you started:
 
 
 
-<img src="https://grs-jd5yut9g4-lecepin.vercel.app/api?username=lecepin&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=ffffff&hide_title=true&include_all_commits=true"   align="left"  />
-<img src="https://grs-jd5yut9g4-lecepin.vercel.app/api/top-langs/?username=lecepin&layout=compact"  align="left" />
+<img src="https://github-readme-stats.vercel.app/api?username=lecepin&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=ffffff&hide_title=true&include_all_commits=true"   align="left"  />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lecepin&layout=compact"  align="left" />
 
 
 
