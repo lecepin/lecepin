@@ -4,8 +4,8 @@
 
 I am Leping Wang, the author of [《PWA 入门与实践》(Hands-On Progressive Web Apps)](https://item.jd.com/12855174.html)。
 
-- 🔭 I currently work for [Alibaba](https://github.com/alibaba). The core development member of *Ali Brain* products.
-- 👯 I am looking for developers in data visualization。
+- 🔭 I currently work at [Xiaohongshu](https://www.xiaohongshu.com/), focusing on algorithm engineering business.
+- 👯 I am looking for developers in the algorithm direction.
 - 📫 How to reach me: for_leping@139.com
 
 <!--
